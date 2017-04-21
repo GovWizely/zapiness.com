@@ -1,0 +1,15 @@
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+gems:
+- jekyll-coffeescript
+
+lsi: false
+safe: true
+
+baseurl: /zapiness.com
+
+sass:
+  sass_dir: _sass
+  style: compressed
