@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Racing+Sans+One|Source+Sans+Pro');
+
+.inner-navigation {
+  width: 70%;
+}
+
+.inner-header {
+  min-width: none;
+  max-width: none;
+}
+
+.inner-brand {
+  &:hover {
+  text-decoration: none;
+}
+  img {
+    max-width: 48px;
+  }
+  span {
+    color: #333;
+    display: inline-block;
+    font-family: 'Racing Sans One', cursive;
+    font-size: 1em;
+    padding-left: 0.5em;
+  }
+}
+
+.get-started {
+  @extend .btn;
+
+  color: #6e8291;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: #fff;
+  border-color: #fff;
+  margin: 30px 4px 4px;
+  border-radius: 20px;
+  padding: 10px 40px;
+
+  &:hover, &:focus, &:active {
+    color: #fff;
+    background-color: #39ac9b;
+    border-color: #39ac9b;
+    -webkit-transition-duration: 0.3s; /* Safari */
+    transition-duration: 0.3s;
+  }
+
+  > span {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 0.8em;
+  }
+}
