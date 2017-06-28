@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Terms of Service
 
 This agreement applies to zapiness.com and any of its subdomains (the "Site") and the associated software products (the "Products") are  works belonging to GovWizley, LLC, 10523-A Braddock Road  GovWizely, LLC 10523-A Braddock Road Fairfax, VA 22032, United States. The governing law Virginia and controlling United States federal law.

@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Racing+Sans+One|Source+Sans+Pro');
 
+.header.header-shadow {
+  height: 78px;
+}
+
 .inner-navigation {
-  width: 70%;
+  @extend .clearfix;
+  width: 100%;
 }
 
 .inner-header {
@@ -48,5 +53,16 @@
   > span {
     font-family: 'Source Sans Pro', sans-serif;
     margin-left: 0.5em;
+  }
+}
+
+#content {
+  @include make-col-ready();
+  @include media-breakpoint-up(sm) {
+    @include make-col(12);
+  }
+  @include media-breakpoint-up(md) {
+    @include make-col-offset(1);
+    @include make-col(10);
   }
 }

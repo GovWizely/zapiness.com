@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Privacy Policy
 
 In order for Zapiness services to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. This information is not shared with any additional outside parties.
