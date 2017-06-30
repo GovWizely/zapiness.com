@@ -63,7 +63,7 @@ Zapiness reserves the right to refuse connections/traffic without warning at tra
 
 Customer can deploy API Traffic Management agents in as many environments as desired without additional license cost – both production and non-production. Traffic generated in both Production and non-Production costs will count towards service quotas and threshold.
 
-## FEES AND PAYMENT
+## Fees and Payment
 
 Customer subscribed to Zapiness plans will pay a monthly-based subscription fee for the license and services detailed in this Agreement and based on a subscription price with the capacity and traffic limits herein as detailed in Section 3. All fees are non-refundable and guaranteed.
 
@@ -151,7 +151,7 @@ CUSTOMER EXPRESSLY UNDERSTANDS AND AGREES THAT ZAPINESS SHALL NOT BE LIABLE FOR 
 
 CUSTOMER HEREBY AGREES, AT HIS/HER EXPENSE, TO INDEMNIFY, DEFEND AND HOLD Zapiness HARMLESS FROM AND AGAINST ANY LOSS, COST, DAMAGES, LIABILITY, AND/OR EXPENSE ARISING OUT OF OR RELATING TO (A) THIRD PARTY CLAIMS, ACTIONS OR ALLEGATIONS OF INFRINGEMENT BASED ON INFORMATION, DATA OR CONTENT CUSTOMER SUBMITTED IN CONNECTION WITH THE SOFTWARE, (B) ANY FRAUD, MANIPULATION OR OTHER BREACH OF THESE TERMS BY CUSTOMER, OR (C) THIRD PARTY CLAIMS, ACTIONS OR ALLEGATIONS BROUGHT AGAINST Zapiness ARISING OUT OF CUSTOMER’S USE OF THE SOFTWARE.
 
-## MISCELLANEOUS
+## Miscellaneous
 
 13.1 This Agreement does not create any joint venture, partnership, agency, or employment relationship between the parties, although the Zapiness reserves the right to name Customer as use of the Software.
 
